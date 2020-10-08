@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Sluiter_Asg8_Inheritance.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultCity" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hudson</Value>
+    </Setting>
+    <Setting Name="DefaultState" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WI</Value>
+    </Setting>
+    <Setting Name="DefaultZip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">54016</Value>
+    </Setting>
+    <Setting Name="DefaultEmployeeEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)"> test@test123.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

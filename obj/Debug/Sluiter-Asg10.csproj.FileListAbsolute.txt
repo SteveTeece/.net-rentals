@@ -1,0 +1,28 @@
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.Properties.Resources.resources
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter-Asg10.csproj.GenerateResource.cache
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\bin\Debug\Sluiter-Asg10.exe.config
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\bin\Debug\Sluiter-Asg10.exe
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\bin\Debug\Sluiter-Asg10.pdb
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormDefault.resources
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormLease.resources
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormMain.resources
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormProperty.resources
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormTenant.resources
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter-Asg10.exe
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter-Asg10.pdb
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter-Asg10.csprojAssemblyReference.cache
+C:\Users\jorda\Dropbox\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormAbout.resources
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\bin\Debug\Sluiter-Asg10.exe.config
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\bin\Debug\Sluiter-Asg10.exe
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\bin\Debug\Sluiter-Asg10.pdb
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter-Asg10.csprojAssemblyReference.cache
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormAbout.resources
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormDefault.resources
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormLease.resources
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormMain.resources
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormProperty.resources
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.FormTenant.resources
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter_Asg10.Properties.Resources.resources
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter-Asg10.csproj.GenerateResource.cache
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter-Asg10.exe
+C:\Users\jorda\Box\School\2019 Fall - 2020 Spring\School Work\Semester 2\Adv .NET\Assignments\Sluiter-Asg10\obj\Debug\Sluiter-Asg10.pdb
